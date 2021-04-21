@@ -8,7 +8,7 @@
 # Site settings
 title: Fashion DStyle
 brief-intro: ヒットが見えるファッションを中心にライフスタイルを掲載する情報サイト。
-baseurl: "/page74/" # the subpath of your site, e.g. /blog
+baseurl: "/page467/" # the subpath of your site, e.g. /blog
 url: "https://takagotch.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
