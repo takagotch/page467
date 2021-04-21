@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "VIVI Style"
-categories: JavaScript
-tags: 風俗 AVサイト markdown
+brands: VIVIStyle 
+tags: カフェ スポーツ 
 author: takagotch
 ---
 
