@@ -7,7 +7,9 @@
 
 # Site settings
 title: TKVTV
-brief-intro: 取引量No.1！ *当社比
+brief-intro: 
+ヒットが見えるファッションを中心にライフスタイルを掲載する情報サイト。
+おでかけスポット、映画、アート、音楽、コスメ、グルメなど幅広く、ランキング形式で掲載する日本最大級のサイトです。
 baseurl: "/page74/" # the subpath of your site, e.g. /blog
 url: "https://takagotch.github.io/" # the base hostname & protocol for your site
 
