@@ -12,12 +12,13 @@ author: takagotch
 ## VIVI Style
 
 VIVI Styleについて：
+
 ![](https://www.atc-co.com/image/tenant/pht_239_s.jpg)
 
 
 ``` bash
-text
-
+株式会社クレバーに籍をおくバスケットボールプレイヤーがスタッフとして働いています。
+取材してきました。
 ```
 
 
