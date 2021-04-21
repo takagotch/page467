@@ -1,4 +1,4 @@
-### [Fashion DStyle | メディア運営](https://takagotch.github.io/page467/) 
+### [Fashion AbleStyle | メディア運営](https://takagotch.github.io/page467/) 
 ---
 https://takagotch.github.io/page467/
 ### ニュースサイト　
