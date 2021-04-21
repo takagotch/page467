@@ -24,12 +24,28 @@ https://www.oricon.co.jp/rank/
 ```
 
 ```
+大　categories > tags
+categories
+
+
 ```
 
 ```
+小
+tags
+
+生活
+美容
+金融
+住宅
+ビジネス
+スポーツヘルス
+トラベルレジャー
 ```
 
 ```
+
+
 ```
 
 
