@@ -3,7 +3,7 @@ layout: post
 title:  "VIVI Style"
 categories: VIVIStyle 
 tags: カフェ スポーツ 
-author: takagotch
+author: Official
 ---
 
 * content
