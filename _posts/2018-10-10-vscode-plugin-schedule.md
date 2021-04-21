@@ -11,7 +11,9 @@ author: takagotch
 
 ## VIVI Style
 
-最強のシステム開発について：
+VIVI Styleについて：
+![](https://www.atc-co.com/image/tenant/pht_239_s.jpg)
+
 
 ``` bash
 text
