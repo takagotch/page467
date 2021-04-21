@@ -27,6 +27,21 @@ https://www.oricon.co.jp/rank/
 大　categories > tags
 categories
 
+ファッション
+ビューティ
+グルメ
+アート
+映画
+音楽
+ライフスタイル
+
+ウィメンズ
+メンズ
+ウィメンズ&メンズ
+
+ショップスナップ
+ショップアイテム
+
 
 ```
 
@@ -44,6 +59,8 @@ tags
 ```
 
 ```
+ブランド
+https://www.fashion-press.net/brands/
 
 
 ```
