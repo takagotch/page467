@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VIVI Style"
-brands: VIVIStyle 
+categories: VIVIStyle 
 tags: カフェ スポーツ 
 author: takagotch
 ---
