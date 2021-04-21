@@ -7,7 +7,8 @@
 
 # Site settings
 title: Fashion DStyle
-brief-intro: ヒットが見えるファッションを中心にライフスタイルを掲載する情報サイト。おでかけスポット、映画、アート、音楽、コスメ、グルメなど幅広く、ランキング形式で掲載する日本最大級のサイトです。
+brief-intro: ヒットが見えるファッションを中心にライフスタイルを掲載する情報サイト。
+おでかけスポット、映画、アート、音楽、コスメ、グルメなど幅広く、ランキング形式で掲載する日本最大級のサイトです。
 baseurl: "/page74/" # the subpath of your site, e.g. /blog
 url: "https://takagotch.github.io/" # the base hostname & protocol for your site
 
