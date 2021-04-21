@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "最強の風俗案内所💁"
+title:  "VIVI Style"
 categories: JavaScript
 tags: 風俗 AVサイト markdown
 author: takagotch
@@ -9,33 +9,13 @@ author: takagotch
 * content
 {:toc}
 
-## 最強の風俗案内所💁
+## VIVI Style
 
 最強のシステム開発について：
 
 ``` bash
-week
-├── 2016
-├── 2017
-├── 2018
-│   ├── 20180102.md
-│   ├── 20180108.md
-│   ├── 20180115.md
-│   ├── 20180122.md
-│   ├── 20180126.md
-│   ├── ...
-│   ├── ...
-│   ├── ...
-│   ├── 20181007.md
-│   ├── pixi.md
-│   ├── schedule.md
-│   ├── temp.css
-│   ├── temp.html
-│   ├── temp.js
-│   ├── temp.json
-│   └── temp.md
-├── package.json
-└── yarn.lock
+text
+
 ```
 
 
@@ -46,7 +26,7 @@ week
 
 对于每一个 md 文件内部，我习惯按照星期几来记录，类似如下：
 
-![](https://user-gold-cdn.xitu.io/2018/10/10/1665ccd109702abc?w=903&h=893&f=png&s=151884)
+![](https://www.atc-co.com/image/tenant/pht_239_s.jpg)
 
 ## markdown-schedule-snippet
 
