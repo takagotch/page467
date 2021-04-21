@@ -1,4 +1,6 @@
-### Fashion DStyle | メディア運営　　
+### [Fashion DStyle | メディア運営](https://takagotch.github.io/page467/) 
+---
+https://takagotch.github.io/page467/
 ### ニュースサイト　
 
 [demo | https://takagotch.github.io/page74/](https://takagotch.github.io/page74/)
