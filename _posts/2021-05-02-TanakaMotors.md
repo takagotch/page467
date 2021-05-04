@@ -27,7 +27,7 @@ VIVI Styleについて：
 
 对于每一个 md 文件内部，我习惯按照星期几来记录，类似如下：
 
-![](https://www.atc-co.com/image/tenant/pht_239_s.jpg)
+![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210501_144635.jpg)
 
 ## markdown-schedule-snippet
 
