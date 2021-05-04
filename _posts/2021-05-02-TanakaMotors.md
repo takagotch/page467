@@ -13,12 +13,13 @@ author: Official
 
 VIVI Styleについて：
 
-![](https://www.atc-co.com/image/tenant/pht_239_s.jpg)
+![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210501_144635.jpg)
 
 
 ``` bash
-株式会社クレバーに籍をおくバスケットボールプレイヤーがスタッフとして働いています。
+住之江にある田中モータースでバイク修理を行っています。チェーン店では対応できない細かなニーズに合わせることも可能でした。
 取材してきました。
+
 ```
 
 
