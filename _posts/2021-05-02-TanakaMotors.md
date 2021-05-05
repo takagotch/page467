@@ -11,7 +11,7 @@ author: Official
 
 ## 田中モータース
 
-VIVI Styleについて：
+田中モータースについて：
 
 ![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210501_144635.jpg)
 
