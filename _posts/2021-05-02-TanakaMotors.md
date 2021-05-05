@@ -9,7 +9,7 @@ author: Official
 * content
 {:toc}
 
-## VIVI Style
+## 田中モータース
 
 VIVI Styleについて：
 
