@@ -1,24 +1,25 @@
 ---
 layout: post
-title:  "田中モータース住之江"
-categories: TanakaMotors 
-tags: バイク 
+title:  "ネッツトヨタ堺大野芝モール"
+categories: Toyota Netz  
+tags: クルマ　バイク 
 author: Official
 ---
 
 * content
 {:toc}
 
-## 田中モータース
+## ネッツトヨタ堺大野芝モール
 
 田中モータースについて：
 
-![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210501_144635.jpg)
+![](https://nankai.corolla-dealer.jp/file/cms/35301/2948827/image.jpg)
 
 
 ``` bash
-住之江にある田中モータースでバイク修理を行っています。チェーン店では対応できない細かなニーズに合わせることも可能でした。
+トヨタ堺大野店がオープン。2021年4月20日（火）より初芝店は、堺大野芝店として移転オープンしました。
 取材してきました。
+
 
 ```
 
@@ -27,7 +28,7 @@ author: Official
 
 对于每一个 md 文件内部，我习惯按照星期几来记录，类似如下：
 
-![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210501_144635.jpg)
+![](https://nankai.corolla-dealer.jp/file/cms/35301/2948827/image.jpg)
 
 ## markdown-schedule-snippet
 
