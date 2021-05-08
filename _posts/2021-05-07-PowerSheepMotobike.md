@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PowerSheepMotobike"
-categories:  PowerSheepMotobike
+categories:  PowerSheepMotorbike
 tags: バイク 
 author: Official
 ---
@@ -9,9 +9,9 @@ author: Official
 * content
 {:toc}
 
-## PowerSheepMotobike台湾・劉氏
+## PowerSheepMotorbike台湾・劉氏
 
-PowerSheepMotobikeについて：
+PowerSheepMotorbikeについて：
 
 ![](https://genki-ichiba.com/login/wp-content/uploads/2019/06/cropped-noimage.jpg)
 
