@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PowerSheepMotobike"
+title:  "PowerSheepMotorbike"
 categories:  PowerSheepMotorbike
 tags: バイク 
 author: Official
