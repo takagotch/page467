@@ -13,7 +13,7 @@ author: Official
 
 PowerSheepMotorbikeについて：
 
-![](https://genki-ichiba.com/login/wp-content/uploads/2019/06/cropped-noimage.jpg)
+![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210509_120910.jpg)
 
 
 ``` bash
@@ -28,7 +28,7 @@ PowerSheepMotobike劉代表から本場の台湾製バイクを仲介しても�
 
 对于每一个 md 文件内部，我习惯按照星期几来记录，类似如下：
 
-![](https://genki-ichiba.com/login/wp-content/uploads/2019/06/cropped-noimage.jpg)
+![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210509_120910.jpg)
 
 ## markdown-schedule-snippet
 
