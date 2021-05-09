@@ -9,7 +9,7 @@ author: Official
 * content
 {:toc}
 
-## PowerSheepMotorbike台湾・劉氏
+## PowerSheepMotorbike台湾・劉哲元代表
 
 PowerSheepMotorbikeについて：
 
