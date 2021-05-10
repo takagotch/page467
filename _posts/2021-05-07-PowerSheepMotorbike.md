@@ -15,8 +15,8 @@ PowerSheepMotorbikeについて：
 
 ![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210509_120910.jpg)
 
-[FACEBOOK](https://www.facebook.com/powersheepmotorbike)
 
+[https://www.facebook.com/powersheepmotorbike](FACEBOOK)
 
 
 ``` bash
