@@ -17,7 +17,7 @@ PowerSheepMotorbikeについて：
 
 
 ``` bash
-PowerSheepMotobike劉代表から本場の台湾製バイクを仲介してもらいました。
+PowerSheepMotorbike劉代表から本場の台湾製バイクを仲介してもらいました。
 台湾の主要メーカーは、KYMCOとSYMとヤマハ台湾です。今回はSYMのバイクを仕入れてもらいました。
 取材してきました。
 
