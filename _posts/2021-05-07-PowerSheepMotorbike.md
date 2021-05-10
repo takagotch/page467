@@ -15,6 +15,8 @@ PowerSheepMotorbikeについて：
 
 ![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210509_120910.jpg)
 
+[FACEBOOK](https://www.facebook.com/powersheepmotorbike)
+
 
 ``` bash
 PowerSheepMotorbike劉代表から本場の台湾製バイクを仲介してもらいました。
