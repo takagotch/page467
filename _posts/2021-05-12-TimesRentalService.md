@@ -26,7 +26,7 @@ Times Rental Serviceについて：
 
 对于每一个 md 文件内部，我习惯按照星期几来记录，类似如下：
 
-![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210509_120910.jpg)
+![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/rentalmotors.jpg)
 
 ## markdown-schedule-snippet
 
