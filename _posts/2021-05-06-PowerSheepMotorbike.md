@@ -15,6 +15,8 @@ PowerSheepMotorbikeについて：
 
 ![](https://raw.githubusercontent.com/takagotch/page467/master/assets/img/P_20210509_120910.jpg)
 
+![](https://github.com/takagotch/page467/blob/master/assets/img/P_20210509_130903.jpg)
+
 
 ###### [Facebook](https://www.facebook.com/powersheepmotorbike)
 
